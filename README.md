@@ -4,9 +4,14 @@ This is my Pytorch implementation for the kaggle competition solution: "Adaptive
 My framework is built based on framework of [AGCRN](https://github.com/LeiBAI/AGCRN).
 
 <p align="center">
+  <img src="./WalmartComp.png" alt="Walmart Kaggle Competition" width="800">
+  <br>
+  <b>Figure 1.</b> Walmart Recruiting - Store Sales Forecasting.
+</p>
+<p align="center">
   <img src="./AGCRN-Kaggle.png" alt="AGCRN-Kaggle Framework" width="800">
   <br>
-  <b>Figure 1.</b> The model architecture of the proposed competition solution.
+  <b>Figure 2.</b> The model architecture of the proposed competition solution.
 </p>
 
 ## Installation
