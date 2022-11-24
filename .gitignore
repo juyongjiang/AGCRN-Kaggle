@@ -1,0 +1,12 @@
+exp/
+*.pyc
+*__pycache__
+log/
+dataset/processed/*
+debug.py
+run.log
+*.log
+novel/
+!exp_log/*
+*_val_loss.txt
+.DS_Store
