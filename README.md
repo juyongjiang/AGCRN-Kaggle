@@ -68,15 +68,10 @@ Then, please submit it to Kaggle Platform [https://www.kaggle.com/competitions/w
 
 ## Useful Link
 - DAAGCN [arXiv-22]: [Paper](https://arxiv.org/abs/2208.03063) [Code](https://github.com/juyongjiang/DAAGCN)
-
 - STFGNN [AAAI-21]: [Paper](https://arxiv.org/abs/2012.09641) [Code](https://github.com/MengzhangLI/STFGNN)
-
 - STSGCN [AAAI-20]: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5438) [Code_1](https://github.com/Davidham3/STSGCN) [Code_2](https://github.com/SmallNana/STSGCN_Pytorch)
-
 - ASTGNN [TKDE-21]: [Paper](https://ieeexplore.ieee.org/document/9346058) [Code](https://github.com/guoshnBJTU/ASTGNN)
-
 - ASTGCN [AAAI-19]: [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/3881) [Code](https://github.com/guoshnBJTU/ASTGCN-r-pytorch)
-
 - AGCRN [NIPS-20]: [Paper](https://arxiv.org/pdf/2007.02842.pdf) [Code](https://github.com/LeiBAI/AGCRN)
 
 ## Contact
